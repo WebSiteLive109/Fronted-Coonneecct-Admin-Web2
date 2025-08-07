@@ -61,10 +61,8 @@ const Footer = () => {
             <h4>
 
 <p className='py-5 text-sm text-center'>Web Development:    HAIDER ZAIN.
-< p className='py-5 text-sm text-center'>Company Name:    IT-Expert-Company--( HzTools ).
 
-
-</p>
+  
 </p>
 
 </h4>
